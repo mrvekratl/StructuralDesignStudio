@@ -12,6 +12,14 @@
 
 > **Version 2.0** — A complete architectural refactoring of [StructuralElementManager V1](https://github.com/mrvekratl/StructuralElementManager), implementing enterprise-grade patterns, dependency injection, and production-ready practices. This version addresses all architectural issues identified in V1 while adding advanced features like 3D visualization and comprehensive analytics.
 ---
+## Why This Project Exists (TL;DR for Engineering Software Teams)
+
+I’m an architecture graduate with hands-on BIM experience who transitioned into software development.
+This project focuses on one core question:
+
+**How can BIM / structural engineering logic be translated into clean, testable, enterprise-grade .NET software?**
+
+Everything here — domain models, architecture, DI, and UI decisions — is built around that goal.
 
 ## 📸 Screenshots
 
@@ -27,6 +35,7 @@
 ### Statistics & Analytics
 ![Statistics](Screenshot05.png)
 *Volume distribution charts and material usage breakdown*
+
 ---
 
 ## 🎯 Project Evolution
