@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\bin\Debug\net8.0\StructuralDesignStudio.DtoLayer.deps.json
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\bin\Debug\net8.0\StructuralDesignStudio.DtoLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\bin\Debug\net8.0\StructuralDesignStudio.DtoLayer.pdb
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\bin\Debug\net8.0\StructuralDesignStudio.EntityLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\bin\Debug\net8.0\StructuralDesignStudio.EntityLayer.pdb
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\StructuralDesignStudio.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\StructuralDesignStudio.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\StructuralDesignStudio.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\StructuralDesignStudio.DtoLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\StructuralDesignStudio.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\Structur.44831B01.Up2Date
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\StructuralDesignStudio.DtoLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\refint\StructuralDesignStudio.DtoLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\StructuralDesignStudio.DtoLayer.pdb
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DtoLayer\obj\Debug\net8.0\ref\StructuralDesignStudio.DtoLayer.dll

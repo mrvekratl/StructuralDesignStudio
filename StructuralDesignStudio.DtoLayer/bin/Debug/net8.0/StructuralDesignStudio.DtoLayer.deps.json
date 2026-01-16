@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StructuralDesignStudio.DtoLayer/1.0.0": {
+        "dependencies": {
+          "StructuralDesignStudio.EntityLayer": "1.0.0"
+        },
+        "runtime": {
+          "StructuralDesignStudio.DtoLayer.dll": {}
+        }
+      },
+      "StructuralDesignStudio.EntityLayer/1.0.0": {
+        "runtime": {
+          "StructuralDesignStudio.EntityLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StructuralDesignStudio.DtoLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StructuralDesignStudio.EntityLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

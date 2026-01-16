@@ -1,0 +1,17 @@
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\bin\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.deps.json
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\bin\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.runtimeconfig.json
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\bin\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\bin\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.pdb
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\bin\Debug\net8.0\StructuralDesignStudio.EntityLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\bin\Debug\net8.0\StructuralDesignStudio.EntityLayer.pdb
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\Structur.64A3C420.Up2Date
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\refint\StructuralDesignStudio.DataAccessLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.pdb
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\StructuralDesignStudio.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.DataAccessLayer\obj\Debug\net8.0\ref\StructuralDesignStudio.DataAccessLayer.dll

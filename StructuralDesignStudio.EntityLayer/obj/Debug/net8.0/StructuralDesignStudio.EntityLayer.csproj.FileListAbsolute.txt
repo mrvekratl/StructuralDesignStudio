@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\bin\Debug\net8.0\StructuralDesignStudio.EntityLayer.deps.json
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\bin\Debug\net8.0\StructuralDesignStudio.EntityLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\bin\Debug\net8.0\StructuralDesignStudio.EntityLayer.pdb
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\obj\Debug\net8.0\StructuralDesignStudio.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\obj\Debug\net8.0\StructuralDesignStudio.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\obj\Debug\net8.0\StructuralDesignStudio.EntityLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\obj\Debug\net8.0\StructuralDesignStudio.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\obj\Debug\net8.0\StructuralDesignStudio.EntityLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\obj\Debug\net8.0\refint\StructuralDesignStudio.EntityLayer.dll
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\obj\Debug\net8.0\StructuralDesignStudio.EntityLayer.pdb
+C:\Users\Monster\Desktop\Github\StructuralDesignStudio\StructuralDesignStudio.EntityLayer\obj\Debug\net8.0\ref\StructuralDesignStudio.EntityLayer.dll

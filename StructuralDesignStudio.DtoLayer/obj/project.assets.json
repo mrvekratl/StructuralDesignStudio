@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "StructuralDesignStudio.EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/StructuralDesignStudio.EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StructuralDesignStudio.EntityLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StructuralDesignStudio.EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../StructuralDesignStudio.EntityLayer/StructuralDesignStudio.EntityLayer.csproj",
+      "msbuildProject": "../StructuralDesignStudio.EntityLayer/StructuralDesignStudio.EntityLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "StructuralDesignStudio.EntityLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Monster\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\StructuralDesignStudio\\StructuralDesignStudio\\StructuralDesignStudio.DtoLayer\\StructuralDesignStudio.DtoLayer.csproj",
+      "projectName": "StructuralDesignStudio.DtoLayer",
+      "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\StructuralDesignStudio\\StructuralDesignStudio\\StructuralDesignStudio.DtoLayer\\StructuralDesignStudio.DtoLayer.csproj",
+      "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\StructuralDesignStudio\\StructuralDesignStudio\\StructuralDesignStudio.DtoLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Monster\\Desktop\\Github\\StructuralDesignStudio\\StructuralDesignStudio\\StructuralDesignStudio.EntityLayer\\StructuralDesignStudio.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\StructuralDesignStudio\\StructuralDesignStudio\\StructuralDesignStudio.EntityLayer\\StructuralDesignStudio.EntityLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
